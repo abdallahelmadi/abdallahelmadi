@@ -7,6 +7,6 @@
 
 ### 🛠 Languages & Tools </br>
 
-<img alt="Logo" src="https://skillicons.dev/icons?i=typescript,js,c,cpp,bash,html,css,php,nextjs,tailwindcss,mysql,mongodb,prisma,nodejs,expressjs,npm,postman,git,github,linux" style="width: 80%;">
+<img alt="Logo" src="https://skillicons.dev/icons?i=typescript,js,c,cpp,bash,html,css,shadcn,nextjs,tailwindcss,mysql,mongodb,prisma,nodejs,expressjs,npm,postman,git,github,linux" style="width: 80%;">
 <br/>
 <img src="https://count.getloli.com/@:abdallahelmadi?name=%3Aabdallahelmadi&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=1337042"/>
