@@ -5,7 +5,7 @@
 - 🚀 I am enthusiastic about frontend development and UI.<br>
 </div>
 
-### 🛠 Languages & Tools </br>
+### Languages & Tools </br>
 
 <img alt="Logo" src="https://skillicons.dev/icons?i=typescript,js,c,cpp,bash,html,css,php,nextjs,tailwindcss,mysql,mongodb,postgresql,prisma,nodejs,expressjs,npm,postman,git,github,linux" style="width: 80%;">
 <br/>
